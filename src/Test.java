@@ -16,7 +16,7 @@ public class Test {
         for (int i = 0; i < capacity; i++) {
             boundedWaitList.add(keyboard.next());
         }
-        System.out.println(boundedWaitList);
+        System.out.println(boundedWaitList); 
 
         // Удаление первого элемента очереди
         System.out.println("Удаление первого элемента очереди");
